@@ -109,5 +109,10 @@ namespace Lin
                 MessageBox.Show("Sửa không thành công");
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
