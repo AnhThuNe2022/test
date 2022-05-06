@@ -1,0 +1,12 @@
+C:\Users\thu\source\repos\Lin\Lin\bin\Debug\Lin.exe.config
+C:\Users\thu\source\repos\Lin\Lin\bin\Debug\Lin.exe
+C:\Users\thu\source\repos\Lin\Lin\bin\Debug\Lin.pdb
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.csproj.AssemblyReference.cache
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.Form1.resources
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.Properties.Resources.resources
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.csproj.GenerateResource.cache
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.csproj.CoreCompileInputs.cache
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.exe
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.pdb
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.NhanVienSP.resources
+C:\Users\thu\source\repos\Lin\Lin\obj\Debug\Lin.TimKiemNV.resources
